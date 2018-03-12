@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWebLocator", "SeleniumWebLocator.csproj", "{975286F0-3E5A-4299-987E-8982CB19A341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "..\SeleniumTests\SeleniumTests.csproj", "{FAEAA80D-7ADD-4AF1-ACC5-DE2B9034CCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975286F0-3E5A-4299-987E-8982CB19A341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975286F0-3E5A-4299-987E-8982CB19A341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975286F0-3E5A-4299-987E-8982CB19A341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975286F0-3E5A-4299-987E-8982CB19A341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEAA80D-7ADD-4AF1-ACC5-DE2B9034CCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAEAA80D-7ADD-4AF1-ACC5-DE2B9034CCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAEAA80D-7ADD-4AF1-ACC5-DE2B9034CCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAEAA80D-7ADD-4AF1-ACC5-DE2B9034CCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
